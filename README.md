@@ -3,6 +3,20 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
+DOTENV
+LOCALSTOAGE
+SESSION
+REACT QUERY
+ANALYTICS
+META DATA 
+CONSTACT
+ASSETS
+CSS
+
+
+
+
+
 
 In the project directory, you can run:
 
