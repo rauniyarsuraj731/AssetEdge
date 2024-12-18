@@ -27,7 +27,7 @@ const MainLayout: React.FC = () => {
       case "3":
         return <div>Assets Recovery Content</div>;
       case "4":
-        return <div>Inventory Content</div>;
+        return <div>Inventory All Content</div>;
       default:
         return <div>Default Content</div>;
     }
