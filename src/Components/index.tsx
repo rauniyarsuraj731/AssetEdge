@@ -6,11 +6,12 @@ function WelcomeScreen() {
     <div className="App">
       <header className="App-header">
         <img
-          src={hfactorlogo}
+          src={"assets/asset_white1.png"}
           className="App-logo"
           alt="logo"
         />
-        <p className="App-title">Assets Management</p>
+        {/* <strong className="App-title">Assets Edge</strong> */}
+        <p>An Assets Management App</p>
         <a
           className="App-link"
           href="/landingpage"
